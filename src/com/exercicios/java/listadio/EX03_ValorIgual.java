@@ -19,5 +19,6 @@ public class EX03_ValorIgual {
             C = A * B;
             System.out.println("A multiplicação" + A + " e " + B + " = " + C);
         }
+        sc.close();
     }
 }

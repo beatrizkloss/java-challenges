@@ -6,11 +6,11 @@ import java.util.Scanner;
 public class EX08_Decrescente {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Digite um numero: ");
+        System.out.println("Digite um número: ");
         int N1 = sc.nextInt();
-        System.out.println("Digite o segundo numero: ");
+        System.out.println("Digite o segundo número: ");
         int N2 = sc.nextInt();
-        System.out.println("Digite o terceiro numero: ");
+        System.out.println("Digite o terceiro número: ");
         int N3 = sc.nextInt();
         int[] decrescente = {N1, N2, N3};
         Arrays.sort(decrescente);

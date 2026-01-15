@@ -13,5 +13,6 @@ public class EX05_Salario {
 
         double calculo = salUsuario / salMin;
         System.out.printf("São: %.2f salarios mínimos", calculo);
+        sc.close();
     }
 }

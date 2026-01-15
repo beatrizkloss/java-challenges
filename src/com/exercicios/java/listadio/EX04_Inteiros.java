@@ -16,5 +16,6 @@ public class EX04_Inteiros {
         System.out.println("sucessor: " + sucessor );
         System.out.println("antecessor: " + antecessor);
 
+        sc.close();
     }
 }
