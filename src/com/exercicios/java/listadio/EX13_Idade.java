@@ -16,5 +16,6 @@ public class EX13_Idade {
         }else {
             System.out.println(nome + " você tem " + idade + " você é MAIOR de idade");
         }
+        sc.close();
     }
 }

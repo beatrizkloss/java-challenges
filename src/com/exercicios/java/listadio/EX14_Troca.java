@@ -15,5 +15,6 @@ public class EX14_Troca {
 
         System.out.println("O primeiro número foi trocado pelo segundo: " + A);
         System.out.println("O segundo número foi trocado pelo primeiro: " + B);
+        sc.close();
     }
 }
