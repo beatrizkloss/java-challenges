@@ -2,7 +2,7 @@ package com.exercicios.java.listadio;
 
 import java.util.Scanner;
 
-public class EX09_Imc {
+public class EX09 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

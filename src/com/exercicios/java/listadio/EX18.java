@@ -1,6 +1,6 @@
 package com.exercicios.java.listadio;
 
-public class EX18_Altura {
+public class EX18 {
 
     public static void main(String[] args) {
 

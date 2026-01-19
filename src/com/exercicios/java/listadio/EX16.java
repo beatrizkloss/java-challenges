@@ -2,7 +2,7 @@ package com.exercicios.java.listadio;
 
 import java.util.Scanner;
 
-public class EX16_Triangulo {
+public class EX16 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

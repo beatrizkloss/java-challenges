@@ -1,6 +1,6 @@
 package com.exercicios.java.listadio;
 
-public class EX19_Tabuadas {
+public class EX19 {
     public static void main(String[] args) {
 
         int numero = 1;

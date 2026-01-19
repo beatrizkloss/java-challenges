@@ -2,7 +2,7 @@ package com.exercicios.java.listadio;
 
 import java.util.Scanner;
 
-public class EX15_Ano {
+public class EX15 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

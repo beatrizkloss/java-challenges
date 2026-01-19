@@ -2,7 +2,7 @@ package com.exercicios.java.listadio;
 
 import java.util.Scanner;
 
-public class EX23_SalarioLiquido {
+public class EX23 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

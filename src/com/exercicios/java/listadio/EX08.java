@@ -3,7 +3,7 @@ package com.exercicios.java.listadio;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class EX08_Decrescente {
+public class EX08 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite um número: ");

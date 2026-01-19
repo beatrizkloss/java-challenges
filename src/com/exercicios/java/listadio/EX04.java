@@ -2,7 +2,7 @@ package com.exercicios.java.listadio;
 
 import java.util.Scanner;
 
-public class EX04_Inteiros {
+public class EX04 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

@@ -3,7 +3,7 @@ package com.exercicios.java.listadio;
 
 import java.util.Scanner;
 
-public class EX22_Divisao {
+public class EX22 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

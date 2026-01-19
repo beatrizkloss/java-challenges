@@ -2,7 +2,7 @@ package com.exercicios.java.listadio;
 
 import java.util.Random;
 
-public class EX21_Random {
+public class EX21 {
     public static void main(String[] args) {
 
         Random gerador = new Random();

@@ -3,7 +3,7 @@ package com.exercicios.java.listadio;
 
 import java.util.Scanner;
 
-public class EX24_Combustivel {
+public class EX24 {
 
     public static void main(String[] args) {
 

@@ -2,7 +2,7 @@ package com.exercicios.java.listadio;
 
 import java.util.Scanner;
 
-public class EX03_ValorIgual {
+public class EX03 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
