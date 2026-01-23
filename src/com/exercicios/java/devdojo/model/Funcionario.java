@@ -8,6 +8,9 @@ public class Funcionario {
     public void imprimir() {
         System.out.println(this.nome);
         System.out.println(this.idade);
+        if (salario == null) {
+            return;
+        }
         for(double salario: salario){
             System.out.println(salario);
         }
